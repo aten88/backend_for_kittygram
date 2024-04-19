@@ -10,11 +10,11 @@ Kittygram учебный проект аналог Instagram в нем влад�
 #### Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/yandex-praktikum/kittygram_backend.git
+git clone git@github.com:aten88/backend_for_kittygram.git
 ```
 
 ```
-cd kittygram_backend
+cd backend_for_kittygram
 ```
 
 #### Cоздать и активировать виртуальное окружение:
